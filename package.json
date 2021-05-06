@@ -1,0 +1,19 @@
+{
+  "name": "hobby-webpage",
+  "version": "1.0.0",
+  "description": "Investigate and present an example of use of each of the following components of\r Bootstrap, making a website of your Favorite Hobby or Place:",
+  "main": "hobby.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blama1220/hobby-webpage.git"
+  },
+  "author": "Bill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blama1220/hobby-webpage/issues"
+  },
+  "homepage": "https://github.com/blama1220/hobby-webpage#readme"
+}
